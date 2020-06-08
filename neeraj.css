@@ -4,3 +4,15 @@ body {
   margin-right: 200px;
   margin-left: 120px;
 }
+
+div.container {
+  width: 100%;
+  border: 2px;
+}
+
+div.box {
+  box-sizing: border-box;
+  width: 50%;
+  border: 5px;
+  float: left;
+}
