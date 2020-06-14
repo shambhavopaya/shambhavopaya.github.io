@@ -9,7 +9,7 @@ repo:
 mode: light # default theme "dark" | "light"
 
 # Profile settings
-author:
+author: 
   name: Neeraj Deshmukh
   bio: I am grad student in Mathematics at IISER Pune
   username: shambhavopaya
