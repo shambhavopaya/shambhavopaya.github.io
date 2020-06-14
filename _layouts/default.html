@@ -1,0 +1,23 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+{% include header.html %}
+
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+<body data-theme="{{ site.mode }}">
+  {% include navbar.html %}
+  <div class="wrapper">
+    {% include author.html %}
+    <main aria-label="Content">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </div>
+</body>
+</html>
