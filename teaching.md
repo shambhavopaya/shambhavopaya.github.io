@@ -7,10 +7,17 @@ comments: false
 ---
 
 <p>Teaching Assistantships</p>
-<ol>
-<li> MTH201 - Linear Algebra, Fall 2016.
-<li> MTH311 - Calculus on Manifolds, Winter 2017.
+
+1.  MTH201 - Linear Algebra, Fall 2016.
+2. MTH311 - Calculus on Manifolds, Winter 2017.
 
 
+<p>Seminars</p>
 
+
+1. Model Categories, 2016-2017. (Here are some (rough!) <a href="/assets/notes/Model Categories.pdf" target="_blank">notes</a> that I wrote).
+2. Connections on Principal Bundles, 2019.
+
+Talks
+* I once gave a talk on Cartan's method of moving frames in differential geometry. Here are the <a href="/assets/notes/EGOF (revised).pdf" target="_blank"> notes </a>.
 
