@@ -3,11 +3,11 @@
   external: false
 
 - title: Research
-  url: /about/
+  url: /research/
   external: false
 
 - title: Teaching
-  url: /notes/
+  url: /teaching/
   external: false # set true if you using external link, see bellow
 
 # Example:

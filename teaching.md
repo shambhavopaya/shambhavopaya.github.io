@@ -1,6 +1,6 @@
 ---
-title:
-permalink: /notes/
+title: Teaching
+permalink: /teaching/
 layout: page
 excerpt: Catatan Public agar enggak usah pusing-pusing mengingat.
 comments: false
