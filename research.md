@@ -2,19 +2,19 @@
 title: Research
 permalink: /research/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
-comments: false
+excerpt:
+comments: 
 ---
 
 
 <p>I am interested in Algebraic Geometry and \(\mathbb{A}^1\)-Homotopy theory.</p>
 
 <p>Preprints and Publications</p>
-<ol>
-<li> Quasi-Affineness and the 1-Resolution Property (with A. Hogadi and S. Mathur), <i>To appear in IMRN</i>, <a href="https://arxiv.org/abs/1809.05270" target="_blank">arXiv:1809.05270</a>
-<li> Gabber presentation lemma over noetherian domains (with A. Hogadi, G. Kulkarni and S. Yadav), <a href="https://arxiv.org/abs/1906.09931" target="_blank">arXiv:1906.09931</a>.
-<li> A Nisnevich Local Bloch-Ogus Theorem over a General Base (with G. Kulkarni and S. Yadav), <a href="https://arxiv.org/abs/2005.04674" target="_blank">arXiv:2005.04674</a>.
-<ol>
+
+1. A Nisnevich Local Bloch-Ogus Theorem over a General Base (with G. Kulkarni and S. Yadav), <a href="https://arxiv.org/abs/2005.04674" target="_blank">arXiv:2005.04674</a>.
+1. Gabber presentation lemma over noetherian domains (with A. Hogadi, G. Kulkarni and S. Yadav), <a href="https://arxiv.org/abs/1906.09931" target="_blank">arXiv:1906.09931</a>.
+1. Quasi-Affineness and the 1-Resolution Property (with A. Hogadi and S. Mathur), <i>To appear in IMRN</i>, <a href="https://arxiv.org/abs/1809.05270" target="_blank">arXiv:1809.05270</a>
+
 
 
 
