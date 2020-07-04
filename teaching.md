@@ -19,5 +19,5 @@ comments: false
 1. Connections on Principal Bundles, 2019.
 
 Talks
-* I once gave a talk on Cartan's method of moving frames in differential geometry. Here are the <a href="/assets/notes/EGOF (revised).pdf" target="_blank"> notes </a>.
+* I once gave a talk on Cartan's method of moving frames in differential geometry aimed at an undergraduate. Here are the <a href="/assets/notes/EGOF (revised).pdf" target="_blank"> notes </a>.
 
