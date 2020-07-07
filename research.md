@@ -7,7 +7,7 @@ comments:
 ---
 
 
-<p>I am interested in Algebraic Geometry and \(\mathbb{A}^1\)-Homotopy theory.</p>
+<p>I am interested in algebraic stacks, moduli problems and \(\mathbb{A}^1\)-homotopy theory.</p>
 
 <p>Preprints and Publications</p>
 
