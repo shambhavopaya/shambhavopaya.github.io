@@ -27,4 +27,12 @@
 <loc>http://localhost:4000/assets/notes/Model%20Categories.pdf</loc>
 <lastmod>2018-02-08T09:11:07+00:00</lastmod>
 </url>
+<url>
+<loc>http://localhost:4000/assets/notes/main.article.pdf</loc>
+<lastmod>2020-07-12T18:20:24+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/notes/main.beamer.pdf</loc>
+<lastmod>2020-07-12T18:19:40+00:00</lastmod>
+</url>
 </urlset>
