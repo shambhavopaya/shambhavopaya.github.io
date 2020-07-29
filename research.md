@@ -11,11 +11,11 @@ comments:
 
 <p>Preprints and Publications</p>
 
-1. A Nisnevich Local Bloch-Ogus Theorem over a General Base (with G. Kulkarni and S. Yadav), <a href="https://arxiv.org/abs/2005.04674" target="_blank">arXiv:2005.04674</a>.
-1. Gabber presentation lemma over noetherian domains (with A. Hogadi, G. Kulkarni and S. Yadav), <a href="https://arxiv.org/abs/1906.09931" target="_blank">arXiv:1906.09931</a>.
-1. Quasi-Affineness and the 1-Resolution Property (with A. Hogadi and S. Mathur), <i>To appear in IMRN</i>, <a href="https://arxiv.org/abs/1809.05270" target="_blank">arXiv:1809.05270</a>
+1. A Nisnevich Local Bloch-Ogus Theorem over a General Base (with G. Kulkarni and S. Yadav), <a href="https://arxiv.org/abs/2005.04674" target="_blank">pdf</a>.
+1. Gabber presentation lemma over noetherian domains (with A. Hogadi, G. Kulkarni and S. Yadav), <a href="https://arxiv.org/abs/1906.09931" target="_blank">pdf</a>.
+1. Quasi-Affineness and the 1-Resolution Property (with A. Hogadi and S. Mathur), <i>International Mathematics Research Notices</i>, <a href="https://doi.org/10.1093/imrn/rnaa125" target="_blank">journal</a> <a href="https://arxiv.org/abs/1809.05270" target="_blank">pdf</a>
 
-
+ 
 Conference talks
 
 * Inter IISER-NISER Mathematics Webmeet 2020. <a href="/assets/notes/iinmm talk (notes).pdf" target="_blank">Talk notes</a>
