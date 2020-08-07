@@ -6,14 +6,14 @@ lang: en-US
 timezone: Asia/New Delhi
 image:  # This image used for Open Graph more info https://ogp.me/
 repo: 
-mode: light # default theme "dark" | "light"
+mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author: 
   name: Neeraj Deshmukh
-  bio: I am graduate student in Mathematics at IISER Pune
+  bio: I am graduate student in Mathematics at <a href="https://www.iiserpune.ac.in/">IISER Pune</a>. My thesis advisor is <a href="http://www.iiserpune.ac.in/~amit/">Amit Hogadi</a>.
   username: shambhavopaya
-  email: neeraj[dot]deshmukh[at]students[dot]iiserpune[dot]ac[dot]in
+  email: name.lastname[at]students.iiserpune.ac.in
   avatar: /assets/img/Me.jpg
 
 # Url settings
