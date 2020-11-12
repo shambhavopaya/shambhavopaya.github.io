@@ -22,5 +22,7 @@ comments: false
 
 
 Talks
+* Talk on Absolute Noetherian approximation and limits of schemes in the TIFR Students' Seminar. <a href="/assets/notes/approximations.article.pdf" target="_blank"> Talk notes </a>.
+
 * I once gave a talk on Cartan's method of moving frames in differential geometry aimed at an undergraduate. Here are the <a href="/assets/notes/EGOF (revised).pdf" target="_blank"> notes </a>.
 
