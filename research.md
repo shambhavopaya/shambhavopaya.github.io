@@ -12,13 +12,14 @@ comments:
 <p>Preprints and Publications</p>
 
 1. The Nisnevich Motive of an Algebraic Stack (with U. Choudhury and A. Hogadi). <a href="https://arxiv.org/abs/2012.13304" target="_blank">pdf</a>
-1. A Nisnevich Local Bloch-Ogus Theorem over a General Base (with G. Kulkarni and S. Yadav). <a href="https://arxiv.org/abs/2005.04674" target="_blank">pdf</a>
-1. Gabber presentation lemma over noetherian domains (with A. Hogadi, G. Kulkarni and S. Yadav), <i> Journal of Algebra</i>, <b>569</b> (2021), 169-179. <a href="https://authors.elsevier.com/c/1c8yV4~FP4NnR" target="_blank">journal</a> <a href="https://arxiv.org/abs/1906.09931" target="_blank">pdf</a>
-1. Quasi-Affineness and the 1-Resolution Property (with A. Hogadi and S. Mathur), <i>International Mathematics Research Notices</i>. <a href="https://doi.org/10.1093/imrn/rnaa125" target="_blank">journal</a> <a href="https://arxiv.org/abs/1809.05270" target="_blank">pdf</a>
+1. A Nisnevich Local Bloch-Ogus Theorem over a General Base (with G. Kulkarni and S. Yadav), <i> Journal of Pure and Applied Algebra </i>, <b>226</b> (2022). <a href="https://doi.org/10.1016/j.jpaa.2021.106978" target="_blank"> journal </a> <a href="https://arxiv.org/abs/2005.04674" target="_blank">pdf</a>
+1. Gabber presentation lemma over noetherian domains (with A. Hogadi, G. Kulkarni and S. Yadav), <i> Journal of Algebra</i>, <b>569</b> (2021), 169-179. <a href="https://authors.elsevier.com/c/1c8yV4~FP4NnR" target="_blank"> journal</a> <a href="https://arxiv.org/abs/1906.09931" target="_blank">pdf</a>
+1. Quasi-Affineness and the 1-Resolution Property (with A. Hogadi and S. Mathur), <i>International Mathematics Research Notices</i>, <b>2022</b>, 2224-2249. <a href="https://doi.org/10.1093/imrn/rnaa125" target="_blank"> journal</a> <a href="https://arxiv.org/abs/1809.05270" target="_blank">pdf</a>
 
  
 Conference talks
 
+* Moduli Spaces and Log Geometry, Institut Mittag-Leffler, Nov 2021.
 * Inter IISER-NISER Mathematics Webmeet 2020. <a href="/assets/notes/iinmm talk (notes).pdf" target="_blank">Talk notes</a>
 
 
