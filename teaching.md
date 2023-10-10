@@ -6,7 +6,7 @@ excerpt: Catatan Public agar enggak usah pusing-pusing mengingat.
 comments: false
 ---
 
-<p>Teaching Assistantships</p>
+<p>Teaching</p>
 
 1. Instructor for <i> Algebra I</i>, University of Zurich, Fall 2022.
 1. Teaching Assistant for <i> Linear Algebra II</i>, University of Zurich, Spring 2022.
