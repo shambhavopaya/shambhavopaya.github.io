@@ -8,8 +8,10 @@ comments: false
 
 <p>Teaching Assistantships</p>
 
-1.  MTH201 - Linear Algebra, Fall 2016.
-1. MTH311 - Calculus on Manifolds, Winter 2017.
+1. Instructor for <i> Algebra I</i>, University of Zurich, Fall 2022.
+1. Teaching Assistant for <i> Linear Algebra II</i>, University of Zurich, Spring 2022.
+1. Teaching Assistant for <i>Calculus on Manifolds </i>, IISER Pune, Winter 2017.
+1. Teaching Assistant for <i>Linear Algebra</i>, IISER Pune, Fall 2016.
 
 
 <p>Seminars</p>
