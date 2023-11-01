@@ -11,9 +11,9 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author: 
   name: Neeraj Deshmukh
-  bio: I am post-doc in Mathematics at the University of Zurich in the working group of <a href="http://user.math.uzh.ch/ayoub/">Joseph Ayoub</a>. Before that I was a graduate student at <a href="https://www.iiserpune.ac.in/">IISER Pune</a>; my thesis advisor was <a href="http://www.iiserpune.ac.in/~amit/">Amit Hogadi</a>.
+  bio: I am post-doc at <a href="https://www.impan.pl/en">IMPAN</a> in the group of <a href="https://achinger.impan.pl/">Piotr Achinger</a>. Before that I was part of the working group of <a href="http://user.math.uzh.ch/ayoub/">Joseph Ayoub</a> at the University of Zurich. I was a graduate student at <a href="https://www.iiserpune.ac.in/">IISER Pune</a>; my thesis advisor was <a href="http://www.iiserpune.ac.in/~amit/">Amit Hogadi</a>.
   username: shambhavopaya
-  email: name.lastname[at]math.uzh.ch
+  email: ndeshmukh[at]impan[dot]pl
   avatar: /assets/img/Me.jpg
 
 # Url settings
