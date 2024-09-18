@@ -11,7 +11,7 @@ comments:
 
 
 <p>Preprints</p>
-1. On the Motivic Homotopy type of Algebraic Stacks, (2023). <a href="https://arxiv.org/abs/2304.10631" target="_blank">pdf</a>
+1. On the Motivic Homotopy type of Algebraic Stacks, (2023). <a href="https://shambhavopaya.github.io/assets/notes/nismot_add.pdf" target="_blank">pdf</a>
 
 
 <p>Publications</p>
