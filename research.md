@@ -11,6 +11,7 @@ comments:
 
 
 <p>Preprints</p>
+1. A^1-connected stacky curves and the Brauer group of moduli of elliptic curves (with Suraj Yadav), (2024). <a href="https://arxiv.org/abs/2410.01525" target="_blank">pdf</a>
 1. On the Motivic Homotopy type of Algebraic Stacks, (2023). <a href="https://shambhavopaya.github.io/assets/notes/nismot_add.pdf" target="_blank">pdf</a>
 
 
