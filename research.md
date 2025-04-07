@@ -24,7 +24,8 @@ comments:
 Sultani, Rachel Webb) <i>SPEC: Stacks Project Expository Collection</i>, Belmans, Ho, & De Jong (Eds.), London Mathematical Society
 Lecture Note Series, Cambridge University Press (2022). <a href="/assets/notes/admissible.pdf" target="_blank">pdf</a>
 1. Nisnevich local good compactifications (with Amit Hogadi, Girish Kulkarni, Suraj Yadav) <i>manuscripta mathematica</i> (2022). <a href="https://link.springer.com/article/10.1007/s00229-022-01402-1" target="_blank">pdf</a>
-1. A Nisnevich Local Bloch-Ogus Theorem over a General Base (with G. Kulkarni and S. Yadav), <i> Journal of Pure and Applied Algebra </i>, <b>226</b> (2022). <a href="https://doi.org/10.1016/j.jpaa.2021.106978" target="_blank"> journal </a> <a href="https://arxiv.org/abs/2005.04674" target="_blank">pdf</a>
+1. A Nisnevich Local Bloch-Ogus Theorem over a General Base (with G. Kulkarni and S. Yadav), <i> Journal of Pure and Applied Algebra </i>, <b>226</b> (2022). <a href="https://doi.org/10.1016/j.jpaa.2021.106978" target="_blank"> journal </a> <a href="https://arxiv.org/abs/2005.04674" target="_blank">pdf</a> <br>
+<b>Erratum</b>: There is a gap in the proof of Theorem 1.1 which we currently do not know how to resolve. Theorem 1.2 holds as stated, however.
 1. Quasi-Affineness and the 1-Resolution Property (with A. Hogadi and S. Mathur), <i>International Mathematics Research Notices</i>, <b>2022</b>, 2224-2249. <a href="https://doi.org/10.1093/imrn/rnaa125" target="_blank"> journal</a> <a href="https://arxiv.org/abs/1809.05270" target="_blank">pdf</a>
 1. Gabber presentation lemma over noetherian domains (with A. Hogadi, G. Kulkarni and S. Yadav), <i> Journal of Algebra</i>, <b>569</b> (2021), 169-179. <a href="https://authors.elsevier.com/c/1c8yV4~FP4NnR" target="_blank"> journal</a> <a href="https://arxiv.org/abs/1906.09931" target="_blank">pdf</a>
 
