@@ -11,9 +11,9 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author: 
   name: Neeraj Deshmukh
-  bio: I am post-doc at <a href="https://www.impan.pl/en">IMPAN</a> in the group of <a href="https://achinger.impan.pl/">Piotr Achinger</a>. Before that I was part of the working group of <a href="http://user.math.uzh.ch/ayoub/">Joseph Ayoub</a> at the University of Zurich. I was a graduate student at <a href="https://www.iiserpune.ac.in/">IISER Pune</a>; my thesis advisor was <a href="http://www.iiserpune.ac.in/~amit/">Amit Hogadi</a>.
+  bio: I am Limited Term Assistant Professor at the <a href="https://www.math.uga.edu">University of Georgia</a>. Before this, I used to be a post-doc at <a href="https://www.impan.pl/en">IMPAN</a> in the group of <a href="https://achinger.impan.pl/">Piotr Achinger</a>. Even earlier, I was part of the working group of <a href="http://user.math.uzh.ch/ayoub/">Joseph Ayoub</a> at the <a href="https://www.math.uzh.ch">University of Zurich</a>. I was a graduate student at <a href="https://www.iiserpune.ac.in/">IISER Pune</a>; my thesis advisor was <a href="http://www.iiserpune.ac.in/~amit/">Amit Hogadi</a>.
   username: shambhavopaya
-  email: ndeshmukh[at]impan[dot]pl
+  email: firstname[dot]lastname[at]uga[dot]edu
   avatar: /assets/img/Me.jpg
 
 # Url settings
