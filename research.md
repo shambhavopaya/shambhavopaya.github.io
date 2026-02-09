@@ -14,11 +14,10 @@ comments:
 1. The Morel-Voevodsky Construction over Algebraic Stacks (with Felix Sefzig), (2025). <a href="https://arxiv.org/abs/2506.12820" target="_blank">pdf</a>
 1. A Motivic Riemann-Roch Theorem for Deligne-Mumford Stacks (with Utsav Choudhury, Amit Hogadi), (2024). <a href="https://arxiv.org/abs/2412.05071" target="_blank">pdf</a>
 1. A^1-connected stacky curves and the Brauer group of moduli of elliptic curves (with Suraj Yadav), (2024). <a href="https://arxiv.org/abs/2410.01525" target="_blank">pdf</a>
-1. On the Motivic Homotopy type of Algebraic Stacks (with an appendix joint with Jack Hall), (2023). <a href="https://arxiv.org/abs/2304.10631" target="_blank">pdf</a>
-
 
 <p>Publications</p>
 
+1. On the Motivic Homotopy type of Algebraic Stacks (with Jack Hall), <i> Journal of Algebra</i>, <b>693</b> (2026), 790-804. <a href="https://www.sciencedirect.com/science/article/pii/S0021869326000116" target="_blank"> journal</a> <a href="https://arxiv.org/abs/2304.10631" target="_blank">pdf</a>
 1. The Nisnevich Motive of an Algebraic Stack (with Utsav Choudhury, Amit Hogadi)
 <i> Annals of K-Theory </i>, <b>Vol. 8</b> (2023), No. 2, 245–273. <a href="https://msp.org/akt/2023/8-2/p03.xhtml" target="_blank">journal</a> <a href="https://arxiv.org/abs/2012.13304" target="_blank">pdf</a>
 1. The stack of admissible covers is algebraic (with Elsa Corniani, Brett Nasserden, Emanuel Reinecke, Nawaz
